@@ -6,7 +6,6 @@ C: Desktop
 |      dir.txt
 |      DirTree.class
 |      DirTree.java
-|      DirTree.txt
 |      Dir_tree.class
 |      Dir_tree.java
 |      Dir_tree2.class
@@ -14,6 +13,7 @@ C: Desktop
 |      eclipse.lnk
 |      interview.txt
 |      Introduction to Java Programming (10th.pdf
+|      Microsoft Edge.lnk
 |      MinGW Installer.lnk
 |      pt.class
 |      pt.java
@@ -23,124 +23,169 @@ C: Desktop
 |      UmmyVideoDownloader.lnk
 |      酷狗音乐.lnk
 |------360
-|         360安全卫士.lnk
-|         360杀毒.lnk
-|         360软件管家.lnk
+|           360安全卫士.lnk
+|           360杀毒.lnk
+|           360软件管家.lnk
 |------Assns456
-|         Assns456.pdf
-|         fundamentals.csv
-|         headers.csv
-|         hw4.sql
-|         hw5.sql
-|         prices.csv
-|         securities.csv
+|           Assns456.pdf
+|           fundamentals.csv
+|           headers.csv
+|           hw4.sql
+|           hw5.sql
+|           prices.csv
+|           securities.csv
 |------CISC3130
-|         0912.txt
-|         0914.txt
-|         1005.txt
-|         1205.txt
-|         chapter 1.odt
-|         chapter 2.odt
-|         chapter 3 linked-list.odt
-|         class 8.txt
-|         class9.txt
-|         makefile.file
-|         review.txt
-|         Untitled 1.odt
+|           0912.txt
+|           0914.txt
+|           1005.txt
+|           1205.txt
+|           chapter 1.odt
+|           chapter 2.odt
+|           chapter 3 linked-list.odt
+|           class 8.txt
+|           class9.txt
+|           makefile.file
+|           review.txt
+|           Untitled 1.odt
 |------cpp
-|    |      input.cpp.cpp
-|    |      input.cpp.exe
-|    |      mergesort.cpp
-|    |      nqueen.cpp
-|    |      Num.java
-|    |      num.txt
-|    |      PatternOf Prime Spacing.cpp
-|    |      PatternOf Prime29-31 (2)Spacing.cpp
-|    |      PatternOfPrimeSpacing_Huang2.cpp
-|    |      pq.cpp
-|    |      prime11-13 all-Factors.cpp
-|    |      printf.cpp
-|    |      sllist.cpp
-|    |      sllist.exe
-|    |      SLList.h
-|    |      SLList.h.gch
-|    |      St.java
-|    |      stcomp.cpp
-|    |      try.cpp
-|    |      u.cpp
-|    |      Untitled1.cpp
-|    |      Untitled1.exe
-|    |      Untitled2.cpp
-|    +------New folder
-|              a.exe
-|              Huang_TingTing.in.txt
-|              Huang_TingTing.out.txt
-|              LispList.h
-|              LispList.h.gch
-|              LispList_tester.cpp
-|              makefile
-|              project1.exe
+|      |      input.cpp.cpp
+|      |      input.cpp.exe
+|      |      mergesort.cpp
+|      |      nqueen.cpp
+|      |      Num.java
+|      |      num.txt
+|      |      PatternOf Prime Spacing.cpp
+|      |      PatternOf Prime29-31 (2)Spacing.cpp
+|      |      PatternOfPrimeSpacing_Huang2.cpp
+|      |      pq.cpp
+|      |      prime11-13 all-Factors.cpp
+|      |      printf.cpp
+|      |      sllist.cpp
+|      |      sllist.exe
+|      |      SLList.h
+|      |      SLList.h.gch
+|      |      St.java
+|      |      stcomp.cpp
+|      |      try.cpp
+|      |      u.cpp
+|      |      Untitled1.cpp
+|      |      Untitled1.exe
+|      |      Untitled2.cpp
+|      +------New folder
+|                  a.exe
+|                  Huang_TingTing.in.txt
+|                  Huang_TingTing.out.txt
+|                  LispList.h
+|                  LispList.h.gch
+|                  LispList_tester.cpp
+|                  makefile
+|                  project1.exe
 |------database
-|         boat_solns.sql
-|         database1.docx
-|         databases.pdf
-|         hw2.sql
-|         hw3-Huang,Ting Ting.sql
-|         normalForm question.docx
-|         schema diagram.odg
-|         schema diagram.pdf
-|         Ting Ting Huang_world_assign.docx
-|         titanic.csv
-|         titanic_assn .sql
+|           boat_solns.sql
+|           database1.docx
+|           databases.pdf
+|           hw2.sql
+|           hw3-Huang,Ting Ting.sql
+|           normalForm question.docx
+|           schema diagram.odg
+|           schema diagram.pdf
+|           Ting Ting Huang_world_assign.docx
+|           titanic.csv
+|           titanic_assn .sql
 |------ethics
-|         B.Gates Paper 2018 (2).doc
-|         bill gate.pdf
-|         boat.docx
-|         ch1.docx
-|         ethic exam1.docx
-|         Ethics .pdf
-|         extra credit.docx
-|         HuangTingTingSandelVideo,SPRING 2018.docx
-|         HuangTingTingSandelVideo,SPRING 2018.pdf
-|         Sandel Mini Research Paper Requirements_Spring2018 (4).doc
-|         term.docx
-|         Ting Ting Huang, robot_killer assign.docx
-|         Ting Ting Huang.docx
-|         Ting Ting Huang2.docx
+|           B.Gates Paper 2018 (2).doc
+|           bill gate.pdf
+|           boat.docx
+|           ch1.docx
+|           ethic exam1.docx
+|           Ethics .pdf
+|           extra credit.docx
+|           HuangTingTingSandelVideo,SPRING 2018.docx
+|           HuangTingTingSandelVideo,SPRING 2018.pdf
+|           Sandel Mini Research Paper Requirements_Spring2018 (4).doc
+|           term.docx
+|           Ting Ting Huang, robot_killer assign.docx
+|           Ting Ting Huang.docx
+|           Ting Ting Huang2.docx
 |------gov't form
-|         SALES RECEIPT.pdf
-|         v1.pdf
-|         w2.pdf
+|           SALES RECEIPT.pdf
+|           v1.pdf
+|           w2.pdf
 |------OOP
-|         abstract & interface.txt
-|         clone.txt
-|         exception.txt
-|         instance.txt
-|         overview of exception.png
-|         SSDASDAS.txt
+|           abstract & interface.txt
+|           clone.txt
+|           exception.txt
+|           instance.txt
+|           overview of exception.png
+|           SSDASDAS.txt
 |------SecureW2
-|         BC-WiFi SecureW2 Setup.bat
-|         SecureW2.inf
-|         SecureW2_Enterprise_Client_3517.exe
+|           BC-WiFi SecureW2 Setup.bat
+|           SecureW2.inf
+|           SecureW2_Enterprise_Client_3517.exe
 |------SSH
-|         putty.exe
-|         SSH Secure File Transfer Client.lnk
-|         SSH Secure Shell Client.lnk
-|------StoreSimulation
-|    |      .project
-|    +------bin
-|         |      .project
-|         +------src
-+------test
-     |      test1.txt
-     |      test2.txt
-     |      test3.txt
-     |------t1
-     |    |      t31.txt
-     |    |      t32.txt
-     |    +------t3
-     |              t4.txt
-     |              t42.txt
-     +------t2
-               t21.txt
+|           putty.exe
+|           SSH Secure File Transfer Client.lnk
+|           SSH Secure Shell Client.lnk
++------StoreSimulation
+       |      .classpath
+       |      .gitignore
+       |      .project
+       |      README.md
+       |------.git
+       |      |      COMMIT_EDITMSG
+       |      |      config
+       |      |      FETCH_HEAD
+       |      |      HEAD
+       |      |      index
+       |      |------branches
+       |      |------hooks
+       |      |------logs
+       |      |      |      HEAD
+       |      |      +------refs
+       |      |             |------heads
+       |      |             |           master
+       |      |             +------remotes
+       |      |                    +------origin
+       |      |                                master
+       |      |------objects
+       |      |      |------29
+       |      |      |           b0aaf1c1a0bf3dc2162596b534ca75260c49b9
+       |      |      |------8d
+       |      |      |           9372e20417efbecb558a141b7243eb9b549bf9
+       |      |      |------bc
+       |      |      |           1866d76d07a833007e3e0085c92e17fb9b8f14
+       |      |      |------info
+       |      |      +------pack
+       |      |                  pack-ab15dfe8da123a28fde48d43983712e68de6b1db.idx
+       |      |                  pack-ab15dfe8da123a28fde48d43983712e68de6b1db.pack
+       |      +------refs
+       |             |------heads
+       |             |           master
+       |             |------remotes
+       |             |      +------origin
+       |             |                  master
+       |             +------tags
+       |------.settings
+       |           org.eclipse.jdt.core.prefs
+       |------bin
+       |      |      .project
+       |      |      Cart.class
+       |      |      Customer.class
+       |      |      CustomerHistory.class
+       |      |      Line.class
+       |      |      PiorityLine$cartComparator.class
+       |      |      PiorityLine.class
+       |      |      Registers.class
+       |      |      Simulation.class
+       |      |      Store.class
+       |      +------src
+       +------src
+                   Cart.java
+                   Customer.java
+                   CustomerHistory.java
+                   Line.java
+                   PiorityLine.java
+                   Registers.java
+                   Simulation.java
+                   Store.java
 

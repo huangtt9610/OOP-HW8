@@ -53,10 +53,10 @@ public class Dir_tree {
 		while(!folder.isEmpty()) {
 			File temp = folder.poll();
 			if(folder.isEmpty()) {
-				printTree(temp,sb.append(header+"+------"+temp.getName()+"\r\n"),header+"     ");
+				printTree(temp,sb.append(header+"+------"+temp.getName()+"\r\n"),header+"       ");
 			}
 			else {
-				printTree(temp,sb.append(header+"|------"+temp.getName()+"\r\n"),header +"|    ");
+				printTree(temp,sb.append(header+"|------"+temp.getName()+"\r\n"),header +"|      ");
 			}
 		}
 		
